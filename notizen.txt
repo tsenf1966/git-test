@@ -1,0 +1,3 @@
+Das sind meine ersten Übungsnotizen für Git und Github.
+Ich bin ja so aufgeregt.
+Mal sehen was passiert.
